@@ -11,10 +11,10 @@ time.sleep(1)
 os.system('cls')
 os.system("start mspaint.exe")
 time.sleep(1.25)
-pyautogui.click(751, 152)
-pyautogui.click(774, 305)
+pyautogui.click(751, 152) #w
+pyautogui.click(774, 305) #w
 time.sleep(0.25)
-pyautogui.click(775, 305)
+pyautogui.click(775, 305) #w
 time.sleep(0.25)
 while1 = 0
 while2 = int (while2) #convert to "int"
